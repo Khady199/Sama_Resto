@@ -21,6 +21,7 @@
 | Khadi Mbacke            | Responsable Impact     | dkhadymbacke@gmail.com         |
 
 **URL du dépôt GitHub :** https://github.com/Khady199/Sama_Resto.git
+**URL du site Lovable :** https://sama-resto-sync.lovable.app/
 
 ---
 

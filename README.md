@@ -16,7 +16,7 @@
 |Junior Diedhiou|Dev UI (No-Code)|juniordiedhiou20@gmail.com|
 |Khadi Mbacke|Responsable Impact|dkhadymbacke@gmail.com|
 
-**URL du dépôt GitHub :** https://github.com/Juniorito90/sama-sante-finder.git
+**URL du dépôt GitHub :** https://github.com/Khady199/Sama_Resto.git
 
 ---
 

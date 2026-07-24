@@ -18,6 +18,8 @@
 
 **URL du dépôt GitHub :** https://github.com/Khady199/Sama_Resto.git
 
+**URL de l'application :** https://sama-sante-finder.vercel.app
+
 ---
 
 ## 🎯 Énoncé du problème — HMW (How Might We)

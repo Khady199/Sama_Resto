@@ -41,6 +41,7 @@ Le tout en **architecture synchronisée** : chaque commande arrive en cuisine in
 |--------|------|
 | **Mouhamadou Lamine Thiam** | Chef de Projet |
 | **Pape Gora Thiam** | Master Prompt Engineer |
+| **Mouhamed El Mansour Diop** | Master Prompt Engineer |
 | **Junior Diedhiou** | Dev UI (No-Code) |
 | **Khadi Mbacke** | Responsable Impact |
 

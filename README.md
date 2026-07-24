@@ -20,7 +20,9 @@
 | Junior Diedhiou         | Dev UI (No-Code)       | juniordiedhiou20@gmail.com     |
 | Khadi Mbacke            | Responsable Impact     | dkhadymbacke@gmail.com         |
 
-**URL du dépôt GitHub :** https://github.com/Baye-Daouda/SAMA_RESTO.git
+**URL du dépôt GitHub :** https://github.com/Khady199/Sama_Resto.git 
+
+**URL du site Lovable :** https://sama-resto-sync.lovable.app/
 
 ---
 
